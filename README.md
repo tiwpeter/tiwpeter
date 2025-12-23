@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hi 👋, I'm Tiw</h1>
-<h3 align="center">A passionate frontend developer from Thai</h3>
+<h3 align="center">A passionate developer from Thai</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
